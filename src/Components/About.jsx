@@ -16,9 +16,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/shiva_colorful_background_hd_smite.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "shiva bg";
 
 /**
  * Sort description that expands on your title on the Home component.
